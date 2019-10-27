@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.active {
+  color: Red;
+}
+
 .App-logo {
   height: 40vmin;
 }
